@@ -1,0 +1,15 @@
+Total height = height of content + 2 * width of margin + 2 * width of padding + 2 * width of border
+Total Height = 150px + 40px + 20px + 2px
+Total Height = 212px
+
+Total Width = width of content + 2 * width of margin + 2 * width of padding + 2 * width of border
+Total Width = 400px + 40px + 20px + 2px 
+Total Width = 462
+
+Browser Calculated Height = height of content + 2 * width of padding + 2 * width of border
+Browser Calculated Height = 150px + 20px + 2px 
+Browser Calculated Height = 172px
+
+Browser Calculated Width = width of content + 2 * width of padding + 2 * width of border
+Browser Calculated Width = 400px + 20px + 2px 
+Browser Calculated Width = 422px
